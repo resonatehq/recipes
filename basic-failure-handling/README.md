@@ -1,4 +1,4 @@
-# A New Async Await
+# Basic Failure Handling
 
 Blog: tbd.
 
@@ -7,7 +7,7 @@ Blog: tbd.
 npm install
 ```
 
-You will also need to install the Resonate Server. This can be installed with Homebrew.
+You will also need to install the Resonate Server. This can be installed with Homebrew or [downloaded from GitHub](https://github.com/resonatehq/resonate/releases/tag/v0.5.1).
 ```
 brew install resonatehq/tap/resonate
 ```

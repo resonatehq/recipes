@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "observable": "node_modules/.bin/ts-node observable.ts",
-    "nonobservable": "node_modules/.bin/ts-node nonobservable.ts",
-    "distributed": "node_modules/.bin/ts-node distributed.ts"
+    "catchable": "node_modules/.bin/ts-node catchable.ts",
+    "noncatchable": "node_modules/.bin/ts-node noncatchable.ts"
   },
   "repository": {
     "type": "git",

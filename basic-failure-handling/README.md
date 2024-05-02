@@ -1,6 +1,6 @@
 # Basic Failure Handling
 
-Blog: tbd.
+Blog: https://blog.resonatehq.io/recipes-basic-failure-handling.
 
 ## Install
 ```

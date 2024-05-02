@@ -33,6 +33,10 @@ async function main() {
   if (!promise) {
     resonate.run("foo", id);
   }
+
+  if (promise && !promise.pending) {
+    console.log(`${promise.id} is already complete, try bumping the id to run again`);
+  }
 }
 
 main();

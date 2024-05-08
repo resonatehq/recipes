@@ -1,0 +1,28 @@
+{
+  "name": "edition-2",
+  "version": "1.0.0",
+  "description": "Resonate Recipes, Edition 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "foo": "node_modules/.bin/ts-node foo.ts",
+    "bar": "node_modules/.bin/ts-node bar.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resonatehq/recipes.git"
+  },
+  "author": "Resonate Developers",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/resonatehq/recipes/issues"
+  },
+  "homepage": "https://github.com/resonatehq/recipes#readme",
+  "dependencies": {
+    "@resonatehq/sdk": "^0.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "ts-node": "^10.9.2"
+  }
+}

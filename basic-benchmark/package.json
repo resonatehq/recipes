@@ -1,0 +1,15 @@
+{
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "benchmark1": "node_modules/.bin/tsc benchmark1.ts && node benchmark1.js",
+    "benchmark2": "node_modules/.bin/tsc benchmark2.ts && node benchmark2.js",
+    "benchmark3": "node_modules/.bin/tsc benchmark3.ts && node benchmark3.js"
+  },
+  "dependencies": {
+    "@resonatehq/sdk": "^0.5.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

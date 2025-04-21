@@ -1,6 +1,6 @@
 # Basic Failure Handling
 
-Blog: https://blog.resonatehq.io/recipes-basic-failure-handling.
+Blog: [https://journal.resonatehq.io/p/recipes-basic-failure-handling](https://journal.resonatehq.io/p/recipes-basic-failure-handling)
 
 ## Install
 ```
